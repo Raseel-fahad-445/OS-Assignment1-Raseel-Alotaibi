@@ -23,7 +23,7 @@ We used threads in this project because they’re more efficient for simulating 
 
 **Your Answer:**
 
-[Write your answer here. Describe the specific behavior - where does the process go? When does it run again? Give an example from your actual program output showing a process that was re-queued.]
+[If a process doesn’t finish its time quantum, it goes back to the ready queue so other processes can get CPU time. This keeps things fair and makes sure every process gets its turn.]
 
 Example from my output:
 ```
@@ -31,7 +31,9 @@ Example from my output:
 ```
 
 **Explanation of example:**
-[Explain what's happening in the output snippet you pasted]
+[A thread goes through several states: New when created, Runnable when start() is called, Running when the CPU executes it, Waiting if it sleeps or waits, and Terminated when it’s done.
+In our project, when process P1 is created, it starts as New, then start() makes it Runnable, it runs for its time quantum (Running), may sleep (Waiting), and finally finishes (Terminated). This shows how threads move through their lifecycle to manage CPU execution efficiently.
+]
 
 ---
 
