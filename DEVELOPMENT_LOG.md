@@ -32,68 +32,68 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Your Development Log:
 
-### Entry 1 - [Date and Time]
-**What I did**: 
+### Entry 1 - [28 Mar 2026 - 9:00 PM]
+**What I did**:  Added priority feature
 
-**Details**: 
+**Details**:Created priority field and displayed it in output 
 
-**Challenges**: 
+**Challenges**: Printing priority correctly with process
 
-**Solution**: 
+**Solution**: Modified print statement
 
-**Time spent**: 
-
----
-
-### Entry 2 - [Date and Time]
-**What I did**: 
-
-**Details**: 
-
-**Challenges**: 
-
-**Solution**: 
-
-**Time spent**: 
+**Time spent**: 1 hours
 
 ---
 
-### Entry 3 - [Date and Time]
-**What I did**: 
+### Entry 2 - [29 Mar 2026 - 3:00 PM]
+**What I did**: Implemented context switch counter
 
-**Details**: 
+**Details**:  Added counter and incremented it when thread starts
 
-**Challenges**: 
+**Challenges**: Counting at correct time
 
-**Solution**: 
+**Solution**: Placed counter inside scheduler loop
 
-**Time spent**: 
-
----
-
-### Entry 4 - [Date and Time]
-**What I did**: 
-
-**Details**: 
-
-**Challenges**: 
-
-**Solution**: 
-
-**Time spent**: 
+**Time spent**: 1.5 hours
 
 ---
 
-### Entry 5 - [Date and Time]
-**What I did**: 
+### Entry 3 - [29 Mar 2026 - 7:00 PM]
+**What I did**: Added waiting time tracking
 
-**Details**: 
+**Details**: Stored start time and calculated waiting time
 
-**Challenges**: 
+**Challenges**: Getting accurate time calculation
 
-**Solution**: 
+**Solution**: Used System.currentTimeMillis()
 
-**Time spent**: 
+**Time spent**: 2 hours
+
+---
+
+### Entry 4 - [30 Mar 2026 - 5:00 PM]
+**What I did**: Testing and debugging
+
+**Details**: Ran program and checked all features
+
+**Challenges**: Some values were incorrect
+
+**Solution**: Fixed logic errors and retested
+
+**Time spent**2 hours: 
+
+---
+
+### Entry 5 - [30 Mar 2026 - 9:30 PM]
+**What I did**: Completed documentation files
+
+**Details**: Filled DEVELOPMENT_LOG.md, REFLECTION.md, and ANSWERS.md
+
+**Challenges**: Writing clear explanations
+
+**Solution**: Reviewed assignment and wrote in simple words
+
+**Time spent**: 1.30 hours
 
 ---
 
