@@ -27,7 +27,7 @@ We used threads in this project because they’re more efficient for simulating 
 
 Example from my output:
 ```
-[Paste a relevant snippet from your program output here showing a process being re-queued]
+[hhhh]
 ```
 
 **Explanation of example:**
@@ -43,17 +43,17 @@ In our project, when process P1 is created, it starts as New, then start() makes
 
 **Your Answer:**
 
-[Write your answer here. For each state, explain when P1 enters that state during the simulation. Use your understanding of the code to trace through the lifecycle.]
+[A thread starts in the New state when created. When Thread.start() is called, it becomes Runnable. When the CPU executes it, it becomes Running. If Thread.sleep() is used, it goes to Waiting. Finally, when execution finishes, it becomes Terminated. In my program, each process follows these states during scheduling.]
 
-1. **New**: [When is P1 in New state?]
+1. **New**: [A thread starts in the New state when created. ]
 
-2. **Runnable**: [When does P1 become Runnable?]
+2. **Runnable**: [When Thread.start() is called, it becomes Runnable]
 
-3. **Running**: [When is P1 Running?]
+3. **Running**: [When the CPU executes it, it becomes Running]
 
-4. **Waiting**: [When/why would P1 be Waiting?]
+4. **Waiting**: [If Thread.sleep() is used, it goes to Waiting.]
 
-5. **Terminated**: [When is P1 Terminated?]
+5. **Terminated**: [when execution finishes, it becomes Terminated. In my program, each process follows these states during scheduling.]
 
 ---
 
