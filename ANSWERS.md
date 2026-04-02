@@ -71,13 +71,14 @@ In our project, when process P1 is created, it starts as New, then start() makes
 **Why Round-Robin works well here**: 
 [ ensures fairness.]
 
-### Example 2: [Name of application/scenario]
+### Example 2: [eal-World Application media player]
 
 **Description**: 
-[Describe the real-world scenario or application]
+[Another example is a media player, where one thread plays video and another handles user input. Round-Robin helps keep the system responsive. These scenarios show how scheduling improves performance and user experience.
+]
 
 **Why Round-Robin works well here**: 
-[Explain why Round-Robin scheduling is suitable. Consider fairness, responsiveness, predictability, etc.]
+[ helps keep the system responsive..]
 
 ---
 
