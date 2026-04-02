@@ -34,7 +34,8 @@ I solved this by breaking the problem into smaller steps. First, I tracked proce
 
 **Your Answer:**
 
-[Give specific examples from real applications you use (web browsers, games, mobile apps, etc.). Explain why threads are useful in those scenarios. Connect to what you learned in this assignment.]
+[Multithreading is used in many real-world systems like web servers and mobile apps. For example, a web server handles multiple users at the same time using threads. Also, apps use threads to run background tasks without freezing the UI. In games, threads handle rendering and user input simultaneously. These examples show how threading improves performance and user experience
+]
 
 ---
 
