@@ -25,7 +25,8 @@ Answer the following questions about your learning experience. Each answer shoul
 
 **Your Answer:**
 
-[Describe your problem-solving approach. Did you read documentation? Ask for help? Debug systematically? What resources did you use? What strategies worked?]
+[
+I solved this by breaking the problem into smaller steps. First, I tracked process creation time, then updated waiting time step by step. I also printed values during execution to debug. Reading online examples helped me understand better. Testing multiple times made the solution accurate]
 
 ---
 
