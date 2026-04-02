@@ -17,7 +17,7 @@ Answer the following questions about your learning experience. Each answer shoul
 
 **Your Answer:**
 
-[Describe the specific challenge. Was it understanding the code? Implementing a feature? Using Git? Explain what made it difficult and how it relates to the course concepts.]
+[The most challenging part was tracking waiting time correctly. It required understanding how time is measured during execution. Also, processes were running multiple times, which made tracking harder. It was confusing at first to know when to start and stop counting. This made debugging a bit difficult]
 
 ---
 
