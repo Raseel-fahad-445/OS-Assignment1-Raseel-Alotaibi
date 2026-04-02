@@ -63,13 +63,13 @@ In our project, when process P1 is created, it starts as New, then start() makes
 
 **Your Answer:**
 
-### Example 1: [Name of application/scenario]
+### Example 1: [Real-World Applications web server]
 
 **Description**: 
-[Describe the real-world scenario or application]
+[One example is a web server, where multiple users send requests at the same time. Threads handle each request, and Round-Robin ensures fairness]
 
 **Why Round-Robin works well here**: 
-[Explain why Round-Robin scheduling is suitable. Consider fairness, responsiveness, predictability, etc.]
+[ ensures fairness.]
 
 ### Example 2: [Name of application/scenario]
 
