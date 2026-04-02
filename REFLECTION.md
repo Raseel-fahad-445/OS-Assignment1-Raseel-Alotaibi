@@ -9,7 +9,7 @@ Answer the following questions about your learning experience. Each answer shoul
 
 **Your Answer:**
 
-[Write your answer here. Discuss specific concepts like thread creation, thread states, how threads execute concurrently, what surprised you, etc.]
+[I learned how threads allow multiple tasks to run concurrently instead of sequentially. I understood how to create threads using Runnable and start them using Thread.start(). I also learned how threads share CPU time using scheduling like Round-Robin. The concept of time quantum helped me see how fairness is achieved. Overall, I now understand how threads improve performance and responsiveness]
 
 ---
 
